@@ -20,3 +20,5 @@ n-grams
 ### Libraries
 from textblob.blob import BaseBlob
 import nltk
+import spacy
+from spacy.lang.en import English
