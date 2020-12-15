@@ -12,13 +12,13 @@ In traditional grammar, a part of speech (POS) is a category of words that have 
 * Interjection (INT) — Ouch! Wow! Great! Help! Oh! Hey! Hi!
 
 ### those involved in this project
-Sentence Tokenizing
-Word Tokenizing
-Part of Speech
-n-grams
+* Sentence Tokenizing
+* Word Tokenizing
+* Part of Speech
+* n-grams
 
 ### Libraries
-from textblob.blob import BaseBlob
-import nltk
-import spacy
-from spacy.lang.en import English
+* from textblob.blob import BaseBlob
+* import nltk
+* import spacy
+* from spacy.lang.en import English
